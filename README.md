@@ -1,0 +1,1 @@
+# spring-security-db-authentication-junit
